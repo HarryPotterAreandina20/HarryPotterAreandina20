@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+body{	
+	background: url(../img/FONDO-1.jpg),rgba(0,0,0,0.9);
+	background-repeat: no-repeat; background-size:cover; background-attachment:fixed;}
+	
+
+	
+	
+	
+#logo{
+	height:100px;
+	width:100px;
+	background: url(../img/LOGO.jpg);
+	background-size: 100% 100%;
+	float:left;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+nav ul li{
+	float: left;
+	padding:4px;
+	margin:4px;
+	border-right:1px dashed white;
+	text-align: left;
+	width:100px;
+	transition:all 1s;
+}
+nav ul li:hover{
+	background:rgba(255,255,255,0.2);
+}
+nav ul li a{
+	text-decoration:none;
+	color:white;
+	text-align:center;
+}
+
+h1,h2{
+	margin:0px;padding:0px;
+	margin-top:10px;
+	padding-top:10px;
+	color:#FFF;
+	
+}
+P{
+	margin:0px;padding:0px;
+	margin-top:10px;
+	padding-top:10px;
+	color:#FFF;
+
+}
+	
+h1{
+	font-family: "Harry P", cursive;
+	font-size:110px;
+	color:white;
+	
+}
+h2{
+	font-family: "Blackmoon Quest";
+	font-size:46px;
+	position:relative;
+	top:-20px;
+	left:20px;
+	background-position: left;
+}
+h3{
+	font-family: "Blackmoon Quest";
+	font-size:25px;
+	position:relative;
+	top:-20px;
+	left:20px;
+	background-position: left;
+	color:white;
+	
+}
+article{
+	width:60%;#imgA{
+	background: url(../img/imgA.jpg);
+	background-size: 100% 100%;
+	width:100%px;
+	height:200px;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+#imgE{
+	background: url(../img/imgE.jpg);
+	background-size: 100% 100%;
+	width:100%px;
+	height:200px;
+	background-repeat:no-repeat;
+	background-position:center;
+}	
+}
+article{
+	width:36%;
+	text-align:justify;
+	float:left;
+}
+#img1{
+	background: url(../img/img1.jpg);
+	background-size: 100% 100%;
+	width:100%px;
+	height:200px;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+#img2{
+	background: url(../img/img2.jpg));
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+#img3{
+	background: url(../img/img3.jpg);
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+}
+#img4{
+	background:url(../img/img4.jpg);
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+}
+
+#img5{
+	background: url(../img/img5.png);
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+}
+#img6{
+	background: url(../img/img6.jpg);
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+}
+#img7{
+	background: url(../img/img7.jpg);
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+}
+#img8{
+	background: url(../img/img8.jpg);
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+}
+#img9{
+	background: url(../img/img9.jpg);
+	background-size: 100% 100%;
+	width:100%;
+	height:200px;
+}
+	footer{
+	margin-top:30px;
+	height:30px;
+	text-align:center;
+	color:#FFF;
+}
+
+.imagensitio{
+	background:grey;
+	width:380px;
+	height:200px;
+}
+.contenidoointerior{
+	padding:20px;
+	}
+	#contieneformulario form{
+	width:50%;
+	margin:auto;
+	border:1px dashed rgba(0,0,0,0.2);
+	padding:10px;
+}
+#contieneformulario form input, #contieneformulario form textarea, #contieneformulario form #botonenviar{
+	width:95%;
+	margin-bottom:10px;
+}
+
+	table{margin-top:60px;}
+	td{width:727px; height:409px; border:none;}
+	
+	iframe {width:100%; height:409px;}
+	
+	
+	
+	
+.contenidoointerior{ width:360px; margin-top:50px; margin-bottom:100px; float:left; height:360px; position:relative;}
+.contenidoointerior p { line-height:30px; text-align:justify;}
+
+.contenidoointerior img{ width:100%; }
+
+
+section{  margin: auto;}
+#contienepersonajes{ width:90%;
+	margin:auto;
+}
